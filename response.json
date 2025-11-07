@@ -1,0 +1,8 @@
+
+{
+    "access_token": "6447d349d8854f0d8d5535484b0b811b",
+    "token_type": "bearer",
+    "expires_in": 3598,
+    "scope": "entity.11e643f4-a3ee-8bad-b061-0025904c57d6 platform.write service.genesis.read service.genesis.write service.usage.delete service.usage.update service.usage.write tenant.12270 user.2c92c0f86680fd7777777ad86e455692",
+    "jti": "6447d34955555f0d8d5535484b0b862b"
+}
